@@ -7,9 +7,12 @@ library(RSelenium)
 library(tibble)
 library(dplyr)
 
+# plots
+library(ggplot2)
+
 # wordcloud
-library(wordcloud)
-library(tm)
+# library(wordcloud)
+# library(tm)
 
 # SQL Server
-library(RODBC)
+# library(RODBC)
